@@ -4,8 +4,8 @@
 |==============|==================================|========================================================================================|=============|
 | 03-30-2020   | [Solutions to Inequalities in One Variable] | I understand that the solution to an inequality is a range of values (such as x>7) that make the inequality true. | 
 | 03-31-2020   | [Efficiently Solving Inequalities] | I can solve inequalities by solving a related equation and then checking which values are solutions to the original inequality. | |
-| 04-01-2020   | [Addition Property of Inequalities] | I can solve inequalities using the addition property of inequalities. | |
-| 04-02-2020   | [Multiplication Property of Inequalities] | I can solve inequalities using the multiplication property of inequalities. | |
+| 04-01-2020   | Addition Property of Inequalities | I can solve inequalities using the addition property of inequalities. | |
+| 04-02-2020   | Multiplication Property of Inequalities | I can solve inequalities using the multiplication property of inequalities. | |
 | 04-03-2020   | [Reasoning about Inequalities]     | I can solve one-variable inequalities and interpret the solutions in terms of the situation.
 
 [Efficiently Solving Inequalities]: ../slides/?deck=EfficientlySolvingInequalities
