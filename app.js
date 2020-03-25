@@ -3,15 +3,19 @@ var app = angular.module('md', [
     'ng-showdown',
     'slides.services.sockets',
 ]);
+app.run(function($rootScope) {
+    $('[ng-app]').on('click', 'a', function() {
+        window.location.href = $(this).attr('href');
+    });
+});
 app.config([ '$showdownProvider' , function ($showdownProvider) {
     $showdownProvider.setOption('tables', true);
 }]);
 app.config([ '$locationProvider' , function ($locationProvider) {
-/*    $locationProvider.html5Mode({
-        enabled: false,
+    $locationProvider.html5Mode({
+        enabled: true,
         requireBase: false
     });
-    */
 }]);
 app.controller("MyController", ["$scope", "$location", "$http", function($scope, $location, $http) {
   $scope.markdown = "";
