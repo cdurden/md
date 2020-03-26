@@ -8,9 +8,9 @@
 | Thursday   | Multiplication Property of Inequalities | I can solve inequalities using the multiplication property of inequalities. | |
 | Friday   | [Reasoning about Inequalities]     | I can solve one-variable inequalities and interpret the solutions in terms of the situation.
 
-[Efficiently Solving Inequalities]: ../slides/?deck=EfficientlySolvingInequalities
-[Solutions to Inequalities in One Variable]: ../slides/?deck=SolutionsToInequalitiesInOneVariable
-[Reasoning about Inequalities]: ../slides/?deck=ReasoningAboutInequalities
+[Efficiently Solving Inequalities]: ../slides/#EfficientlySolvingInequalities
+[Solutions to Inequalities in One Variable]: ../slides/#SolutionsToInequalitiesInOneVariable
+[Reasoning about Inequalities]: ../slides/#ReasoningAboutInequalities
 
 # Illustrative links
 [Efficiently Solving Inequalities Khan Academy Practice](https://www.khanacademy.org/math/7th-grade-illustrative-math/unit-6-expressions-equations-and-inequalities/lesson-15-efficiently-solving-inequalities/e/one_step_inequalities?modal=1)
